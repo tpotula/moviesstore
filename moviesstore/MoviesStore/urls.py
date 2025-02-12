@@ -23,4 +23,3 @@ urlpatterns = [
     path('movies/', include('movies.urls')),
 ]
 
-# this is a comment to test git
